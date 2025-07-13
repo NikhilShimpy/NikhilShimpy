@@ -1,4 +1,4 @@
-# 💫About Me :
+# 💫About Me 
 Hi 👋, I’m Nikhil Shimpy — AI & ML Enthusiast | Full Stack Developer | IT Student - SGSITS Indore | Batch 2027
 
 🎓 B.Tech in Information Technology at SGSITS Indore (Batch of 2027)
