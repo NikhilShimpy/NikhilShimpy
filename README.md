@@ -2,8 +2,8 @@
 Hi 👋, I’m Nikhil Shimpy — AI & ML Enthusiast | Full Stack Developer | IT Student - SGSITS Indore | Batch 2027
 
 🌐 **Check out my work and resources:**  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733?style=for-the-badge&logo=About.me&logoColor=white)](https://nikhilshimpyyportfolio.vercel.app/)  
-[![LinkTree](https://img.shields.io/badge/LinkTree-%23A3FFBA?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/nikhilshimpyy?utm_source=linktree_profile_share&ltsid=faf02670-b014-494b-b0df-04222176a2eb)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5733?style=for-the-badge&logo=About.me&logoColor=white)](https://nikhilshimpyyportfolio.vercel.app/)   [![LinkTree](https://img.shields.io/badge/LinkTree-%23A3FFBA?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/nikhilshimpyy?utm_source=linktree_profile_share&ltsid=faf02670-b014-494b-b0df-04222176a2eb)
 
 
 🎓 B.Tech in Information Technology at SGSITS Indore (Batch of 2027)
